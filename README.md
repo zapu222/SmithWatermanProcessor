@@ -1,5 +1,6 @@
-Smith-Waterman Processor
-By Zachary Pulliam
+# Smith-Waterman Processor
+
+# By Zachary Pulliam
 
 
 This program applies three seperate scoring algorithm to 2 sequence string.
