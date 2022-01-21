@@ -1,5 +1,4 @@
 # Smith-Waterman Processor
-
 # By Zachary Pulliam
 
 
